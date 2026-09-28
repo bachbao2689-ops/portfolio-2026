@@ -1,0 +1,61 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@11.19.0
+2 info using node@v24.21.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/admin/Documents/Port/.npmrc
+5 silly config load:file:/Users/admin/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install" "--no-audit" "--no-fund" "--legacy-peer-deps"
+9 verbose logfile logs-max:10 dir:/Users/admin/Documents/Port/.npm-cache/_logs/2026-09-24T07_23_30_542Z-
+10 verbose logfile /Users/admin/Documents/Port/.npm-cache/_logs/2026-09-24T07_23_30_542Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly idealTree buildDeps
+14 silly fetch manifest react@19.0.0
+15 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/npm 6395ms
+17 http fetch GET 200 https://registry.npmjs.org/react 18531ms (cache miss)
+18 silly packumentCache full:https://registry.npmjs.org/react set size:undefined disposed:false
+19 silly fetch manifest react-dom@19.0.0
+20 silly packumentCache full:https://registry.npmjs.org/react-dom cache-miss
+21 http fetch GET 200 https://registry.npmjs.org/react-dom 17707ms (cache miss)
+22 silly packumentCache full:https://registry.npmjs.org/react-dom set size:undefined disposed:false
+23 silly fetch manifest next@15.0.0
+24 silly packumentCache full:https://registry.npmjs.org/next cache-miss
+25 http fetch GET 200 https://registry.npmjs.org/next 51659ms (cache miss)
+26 silly packumentCache full:https://registry.npmjs.org/next set size:undefined disposed:false
+27 silly fetch manifest framer-motion@^11.0.0
+28 silly packumentCache full:https://registry.npmjs.org/framer-motion cache-miss
+29 http fetch GET 200 https://registry.npmjs.org/framer-motion 13034ms (cache miss)
+30 silly packumentCache full:https://registry.npmjs.org/framer-motion set size:undefined disposed:false
+31 silly fetch manifest lucide-react@^0.300.0
+32 silly packumentCache full:https://registry.npmjs.org/lucide-react cache-miss
+33 http fetch GET 200 https://registry.npmjs.org/lucide-react 17201ms (cache miss)
+34 silly packumentCache full:https://registry.npmjs.org/lucide-react set size:undefined disposed:false
+35 silly fetch manifest clsx@^2.1.0
+36 silly packumentCache full:https://registry.npmjs.org/clsx cache-miss
+37 http fetch GET 200 https://registry.npmjs.org/clsx 971ms (cache miss)
+38 silly packumentCache full:https://registry.npmjs.org/clsx set size:undefined disposed:false
+39 silly fetch manifest tailwind-merge@^2.2.0
+40 silly packumentCache full:https://registry.npmjs.org/tailwind-merge cache-miss
+41 http fetch GET 200 https://registry.npmjs.org/tailwind-merge 14231ms (cache miss)
+42 silly packumentCache full:https://registry.npmjs.org/tailwind-merge set size:undefined disposed:false
+43 silly fetch manifest typescript@^5.0.0
+44 silly packumentCache full:https://registry.npmjs.org/typescript cache-miss
+45 http fetch GET 200 https://registry.npmjs.org/typescript 72838ms (cache miss)
+46 silly packumentCache full:https://registry.npmjs.org/typescript set size:undefined disposed:false
+47 silly fetch manifest @types/node@^20.0.0
+48 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+49 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 103275ms (cache miss)
+50 silly packumentCache full:https://registry.npmjs.org/@types%2fnode set size:undefined disposed:false
+51 silly fetch manifest @types/react@^18.2.0
+52 silly packumentCache full:https://registry.npmjs.org/@types%2freact cache-miss
+53 http fetch GET 200 https://registry.npmjs.org/@types%2freact 37008ms (cache miss)
+54 silly packumentCache full:https://registry.npmjs.org/@types%2freact set size:undefined disposed:false
+55 silly fetch manifest @types/react-dom@^18.2.0
+56 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom cache-miss
+57 http fetch GET 200 https://registry.npmjs.org/@types%2freact-dom 18935ms (cache miss)
+58 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom set size:undefined disposed:false
+59 silly fetch manifest tailwindcss@^3.4.0
+60 silly packumentCache full:https://registry.npmjs.org/tailwindcss cache-miss
